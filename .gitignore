@@ -2,11 +2,12 @@
 /2018_lar.txt
 /2019_lar.txt
 /2019_ts.txt
+/.DS_Store
 
 # Folders
 backup/
-results/
 spark-warehouse/
+.ipynb_checkpoints/
 
 
 
