@@ -5,5 +5,6 @@ The dataset in total contains over 30M records and is over 12GB in size. Because
 
 **Raw Data:** https://ffiec.cfpb.gov/data-publication/dynamic-national-loan-level-dataset
 **Data Dictionary & Definitions:** https://ffiec.cfpb.gov/documentation/2019/lar-data-fields/
+
 *Note:* Both the 2018 and 2019 records are used here. All fields & value types are identical in each year.
 
